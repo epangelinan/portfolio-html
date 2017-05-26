@@ -11,6 +11,11 @@ img {
   background-color: #80d7ff;
 }
 
+.about_me img{
+  align-self: center;
+  width: 25%;
+}
+
 .place {
   color: #b30086;
 }
@@ -25,7 +30,5 @@ img {
   font-style: italic;
 }
 
-.bracelet {
-  width: 200px;
-  float: left;
+
 }
