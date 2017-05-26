@@ -1,17 +1,16 @@
-# _{Application Name}_
+# _portfolio-html_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This is a webpage of Esvethlynna Pangelinan. _May 26, 2017_
 
-#### By _**{List of contributors}**_
+#### By _**Esvethlynna Pangelinan**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This webpage contains links to Esvethlynna's latest projects in Epicodus, her background, and her personal interests._
 
 ## Setup/Installation Requirements
 
-*_From your browser, go to: https://epangelinan.github.io/portfolio-html_
-
+* _From your browser, go to: https://epangelinan.github.io/portfolio-html to launch the webpage._
 
 ## Known Bugs
 
