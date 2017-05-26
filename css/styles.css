@@ -2,10 +2,25 @@ body {
   background-color: #66ccff;
 }
 
+img {
+  width: 20%;
+  float: right;
+}
+
 .about_me {
   background-color: #80d7ff;
 }
 
 .place {
   color: #b30086;
+}
+
+.background_interests {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: #b3ffb3;
+}
+.background_interests li {
+  font-style: italic;
 }
